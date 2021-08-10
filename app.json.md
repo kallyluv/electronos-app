@@ -1,3 +1,4 @@
+```js
 {
   "name": "app", //app name
   "main": "src/index.html", //main file to load when opening app
@@ -7,3 +8,4 @@
   "frame": true, //change whether the default window frame is loaded. frameless apps must have window controls
   "outline": true //change whether the default window outline is loaded. if false, the app must have a definite edge visible to the user at all times
 }
+```
