@@ -1,1 +1,1 @@
-# electronos-app
+# ElectronOS App Example
